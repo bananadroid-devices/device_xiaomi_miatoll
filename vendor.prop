@@ -231,3 +231,6 @@ zygote.critical_window.minute=10
 
 # Cached app compaction
 persist.device_config.activity_manager.use_compaction=true
+
+# DeviceParts
+persist.deviceparts.lcd.cabc=1

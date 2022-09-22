@@ -92,6 +92,7 @@ vendor/etc/mixer_paths_wcd937x.xml
 
 # Audio FX modules
 vendor/lib/soundfx/libasphere.so
+vendor/lib/soundfx/libmisoundfx.so
 vendor/lib/soundfx/libshoebox.so
 
 # Battery

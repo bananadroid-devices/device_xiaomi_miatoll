@@ -106,6 +106,10 @@ USE_DEX2OAT_DEBUG := false
 # DebugFS
 PRODUCT_SET_DEBUGFS_RESTRICTIONS := true
 
+# Device Parts
+PRODUCT_PACKAGES += \
+    DeviceParts
+
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.4-service
