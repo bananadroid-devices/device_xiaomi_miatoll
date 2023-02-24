@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_miatoll.mk
+    $(LOCAL_DIR)/banana_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_miatoll-user \
-    spark_miatoll-userdebug \
-    spark_miatoll-eng
+    banana_miatoll-user \
+    banana_miatoll-userdebug \
+    banana_miatoll-eng
